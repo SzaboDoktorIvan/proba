@@ -9,3 +9,11 @@ body{
 ul{
     size: 200px;
 }
+
+table{
+    background-color: white;
+}
+
+ul{
+    color: white;
+}
